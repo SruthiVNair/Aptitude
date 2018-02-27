@@ -1,3 +1,5 @@
+(((((((1)))))))
+
 the least perfect square number which is exactly divisible by 3, 4, 7, 10 and 12 is: 
  |-------------------------
             2 | 3, 2, 7,  5,   6  
@@ -19,3 +21,52 @@ In the above factorization, 3, 5 and 7 are not in pairs, we have to multiply 420
 = 44100
 
 √44100 = 210
+
+=================================================================================================================================
+
+(((((2)))))
+Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case. 
+
+   If three nos as in this case is 43, 91 and 183 are given then to find HCF the shortest solution is take the diff:
+
+1) 91 - 43 = 48 (4*3*7)
+2) 183 - 91 = 92 (4*23)
+3) 183 - 43 = 140 (4*7*5)
+
+Thus the HCF is 4.
+===================================================================================================================================
+
+Find the largest number, smaller than the smallest four-digit number, which when divided by 4,5,6 and 7 leaves a remainder 2 in each case?
+LCM of 4,5,6,7 =420
+Hence next multiple of 420 is 840
+the largest number, smaller than the smallest four-digit number, which is exactly divisble by 4,5,6 and 7 is 840
+the largest number, smaller than the smallest four-digit number, which when divided by 4,5,6 and 7 leaves a remainder 2 in each case is=840+2=842
+
+=================================================================================================================================
+
+What is the greatest positive power of 5 that divides 30! exactly?
+https://qph.ec.quoracdn.net/main-qimg-4d43b2db3dc97bcbe9776fb5bf99770c-c
+=================================================================================================================================
+
+
+ In how many ways can a number 6084 be written as a product of two different factors ?
+ 
+Factorising 6084 :
+
+6084 = 2^2 x 3^2 x 13^2
+
+If N = a^p b^q c^r, where a,b,c are primes,
+
+Number of factors is represented by :
+
+(p+1)(q+1)(r+1)
+
+=> (2+1)(2+1)(2+1) = 27
+
+Number of Ordered pairs of any two factors is ( 27 + 1)/2 = 14
+
+Since 6084 is a perfect square, evidently the ordered pair (78,78) is also counted in the above 14 pairs.
+
+So, the number of ways in which 6084 can be expressed as a product of two different factors is 13.
+
+==============================================================================================================================
